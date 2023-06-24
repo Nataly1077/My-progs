@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DZ 6.3", "DZ 6.3.pyproj", "{3CD62FCB-9116-4F5F-8E15-407211E0562C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CD62FCB-9116-4F5F-8E15-407211E0562C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD62FCB-9116-4F5F-8E15-407211E0562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2735D91-EC76-4025-A93D-A3E3444CCEB9}
+	EndGlobalSection
+EndGlobal
